@@ -29,7 +29,6 @@ Hey, I am a final year student at Motilal Nehru National Institute of Technology
   <br/>
   <i>But along the way, you'll become something great."</i>
   <br/><br/>
-  <i style="color: #16a085;">Let's connect and chat! Open to anything under the sun.</i>
 </p>
 
 <p align="center">
