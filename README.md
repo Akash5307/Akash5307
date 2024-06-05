@@ -28,7 +28,6 @@ Hey, I am a final year student at Motilal Nehru National Institute of Technology
   <i>Even if you keep pursuing perfection, you'll never reach it.</i>
   <br/>
   <i>But along the way, you'll become something great."</i>
-  <br/><br/>
 </p>
 
 <p align="center">
