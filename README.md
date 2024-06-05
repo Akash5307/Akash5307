@@ -1,6 +1,6 @@
 ### A Subtle Welcome by [Akash Gupta]👋
 
-Hey, I am a final year student at Motilal Nehru National Institute of Technology, Allahabad. I'm a Full Stack developer armed with experienced knowledge of some of the popular and loved frameworks and languages listed below:
+Hey, I am a final year student at Motilal Nehru National Institute of Technology, Allahabad. I'm a Full Stack developer armed with knowledge of some of the popular and loved frameworks and languages listed below:
 
 - **Backend Technologies**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 - **Frontend Technologies**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
@@ -22,14 +22,14 @@ Hey, I am a final year student at Motilal Nehru National Institute of Technology
 
 <hr>
 
-<p align="center">
-  <i>"In the world, no one is perfect. "</i>
+<p align="center" style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 18px;">
+  <i>"In the world, no one is perfect.</i>
   <br/>
-    <i>Even if you keep pursuing perfection, you'll never reach it. </i>
-<br/>
+  <i>Even if you keep pursuing perfection, you'll never reach it.</i>
+  <br/>
   <i>But along the way, you'll become something great."</i>
-  <br/>
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <br/><br/>
+  <i style="color: #16a085;">Let's connect and chat! Open to anything under the sun.</i>
 </p>
 
 <p align="center">
@@ -43,23 +43,4 @@ Hey, I am a final year student at Motilal Nehru National Institute of Technology
 
 <hr>
 
-## GitHub Stats
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash5307&show_icons=true&hide_border=true&icon_color=5CFF33&theme=nord)
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash5307&layout=compact&hide_border=true&theme=nord)
-
-## Technologies & Tools
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-D82C20?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 
