@@ -2,11 +2,16 @@
 
 Hey, I am a final year student at Motilal Nehru National Institute of Technology, Allahabad. I'm a Full Stack developer armed with experienced knowledge of some of the popular and loved frameworks and languages listed below:
 
-- **Backend Technologies**: Node.js
-- **Frontend Technologies**: React.js
-- **Databases**: MongoDB, Redis
-- **Programming Languages**: JavaScript, TypeScript, C, C++
-- **Other Mentionable Technologies**: Docker
+- **Backend Technologies**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- **Frontend Technologies**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+- **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-D82C20?logo=redis&logoColor=white)
+- **Programming Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+- **Other Mentionable Technologies**:
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 *******
 
