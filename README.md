@@ -1,4 +1,4 @@
-### A Subtle Welcome by [Akash Gupta]👋
+### A Subtle Welcome by Akash Gupta👋
 
 Hey, I am a final year student at Motilal Nehru National Institute of Technology, Allahabad. I'm a Full Stack developer armed with knowledge of some of the popular and loved frameworks and languages listed below:
 
