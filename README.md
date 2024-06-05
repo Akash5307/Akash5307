@@ -11,11 +11,6 @@ Hey, I am a Final year student at Motilal Nehru National Institute of Technology
 
 - 📫 How to reach me: 
 akash1128355@gmail.com
-
-
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash5307&show_icons=true&hide_border=true&icon_color=5CFF33&theme=nord)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akash5307&theme=vision-friendly-dark&hide_border=false)<br/>
 ******
 <hr>
 <p align="center">
