@@ -7,7 +7,6 @@ Hey, I am a Final year student at Motilal Nehru National Institute of Technology
 - Programming Languages: JavaScript, Typescript, C, C++
 - Other mentionable technologies used = Docker
 *******
-<a href="https://i.ibb.co/1fD8JDJ/monkey-working.gif"><img align="right" src="https://i.ibb.co/1fD8JDJ/monkey-working.gif" title="source: stock" /></a>
 
 - 📫 How to reach me: 
 akash1128355@gmail.com
