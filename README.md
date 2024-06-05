@@ -23,11 +23,11 @@ Hey, I am a final year student at Motilal Nehru National Institute of Technology
 <hr>
 
 <p align="center" style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 18px;">
-  <i>"In the world, no one is perfect.</i>
+  <i>In the world, no one is perfect.</i>
   <br/>
   <i>Even if you keep pursuing perfection, you'll never reach it.</i>
   <br/>
-  <i>But along the way, you'll become something great."</i>
+  <i>But along the way, you'll become something great.</i>
 </p>
 
 <p align="center">
