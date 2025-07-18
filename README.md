@@ -16,6 +16,7 @@ Hey, I am a final year student at Motilal Nehru National Institute of Technology
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 - **Other Mentionable Technologies**:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 *******
 
