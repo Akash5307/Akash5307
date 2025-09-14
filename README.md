@@ -1,5 +1,5 @@
 ### A Subtle Welcome by Akash Gupta👋
-Hey, I am a CSE 2025 graduate from NIT Allahabad. I'm a Full Stack developer armed with knowledge of some of the popular and loved frameworks and languages listed below:
+Hey, I am Akash Gupta, a 2025 Computer Science and Engineering graduate from NIT Allahabad. I'm a Full Stack developer armed with knowledge of some of the popular and loved frameworks and languages listed below:
 
 - **Backend Technologies**: 
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
