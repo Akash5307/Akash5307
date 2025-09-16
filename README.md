@@ -1,6 +1,5 @@
 ### A Subtle Welcome by Akash Gupta👋
-Hey, I am Akash Gupta, a 2025 Computer Science and Engineering graduate from NIT Allahabad, armed with knowledge of some of the popular and loved frameworks and languages listed below:
-
+Computer Science graduate (2025) from NIT Allahabad, passionate about C++ and system-level programming. Interested in OS concepts, performance optimization and building efficient, low-level software solutions.
 - **Backend Technologies**: 
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
@@ -17,15 +16,25 @@ Hey, I am Akash Gupta, a 2025 Computer Science and Engineering graduate from NIT
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
+
+## **GitHub Statistics**
+
+<p align="center">
+  <a href="https://github.com/Akash5307">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash5307&theme=dracula&hide_langs_below=1" />
+  </a>
+  <a href="https://github.com/Akash5307">
+   <img src="https://github-readme-stats.vercel.app/api?username=Akash5307&show_icons=true&theme=dracula&line_height=27" alt="Akash Gupta github stats"/>
+  </a>
+</p>
+
+
 *******
 
 ## 📫 How to Reach Me:
 - **Email**: akash1128355@gmail.com
 
 *******
-
-<hr>
-
 <p align="center" style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 18px;">
   <i>In the world, no one is perfect.</i>
   <br/>
