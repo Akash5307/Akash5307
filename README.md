@@ -3,7 +3,6 @@ Computer Science graduate (2025) from NIT Allahabad, passionate about C++ and sy
 - **Backend Technologies**: 
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 - **Frontend Technologies**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 - **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-D82C20?logo=redis&logoColor=white)
@@ -14,7 +13,6 @@ Computer Science graduate (2025) from NIT Allahabad, passionate about C++ and sy
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 - **Other Mentionable Technologies**:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -56,5 +54,4 @@ Computer Science graduate (2025) from NIT Allahabad, passionate about C++ and sy
 </p>
 
 <hr>
-
 
