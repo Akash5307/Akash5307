@@ -22,10 +22,11 @@ Computer Science graduate (2025) from NIT Allahabad, passionate about C++ and sy
 
 
 ## **GitHub Statistics**
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash5307&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akash5307&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akash5307&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akash5307&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akash5307&theme=default&utcOffset=8)
-
 *******
 ## 📫 How to Reach Me:
 - **Email**: akash1128355@gmail.com
