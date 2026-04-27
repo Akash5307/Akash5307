@@ -5,14 +5,17 @@ I'm a backend engineer currently building loan-origination systems at **WeRize**
 I care about systems that don't fall over: memory profiling, async pipelines, and APIs that hold up under real traffic.
 
 ---
-
+<!-- 
 ### 🛠️ What I work with
 
 **Daily:** Java · Spring Boot · Rust · C++ · PostgreSQL · Docker  
 **Comfortable:** Redis · RabbitMQ · MongoDB · Kafka · ELK Stack  
 **Learning:** Distributed systems, system design at scale
 
----
+--- -->
+## **Tech**
+[![My Skills](https://skillicons.dev/icons?i=java,spring,rust,cpp,c,docker,postgres,redis,mongodb,rabbitmq,kafka,git,linux&perline=)](https://skillicons.dev)
+*******
 
 ### 🚀 Featured Projects
 
@@ -25,9 +28,6 @@ Spring Boot · JWT · PostgreSQL · Docker
 RESTful shortener with role-based access control via custom Spring Security filter chain. Click analytics pipeline with date-range filtering. Fully containerized.
 
 ---
-## **Tech**
-[![My Skills](https://skillicons.dev/icons?i=java,spring,rust,cpp,c,docker,postgres,redis,mongodb,rabbitmq,kafka,git,linux&perline=)](https://skillicons.dev)
-*******
 ## **GitHub Statistics**
 ![Stats](https://github-readme-stats.vercel.app/api?username=Akash5307&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash5307&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
