@@ -25,13 +25,17 @@ Spring Boot · JWT · PostgreSQL · Docker
 RESTful shortener with role-based access control via custom Spring Security filter chain. Click analytics pipeline with date-range filtering. Fully containerized.
 
 ---
-
+## **Tech**
+[![My Skills](https://skillicons.dev/icons?i=java,spring,rust,cpp,c,docker,postgres,redis,mongodb,rabbitmq,kafka,git,linux&perline=)](https://skillicons.dev)
+*******
 ## **GitHub Statistics**
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash5307&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akash5307&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akash5307&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akash5307&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akash5307&theme=default&utcOffset=8)
+![Stats](https://github-readme-stats.vercel.app/api?username=Akash5307&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash5307&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Streak](https://streak-stats.demolab.com?user=Akash5307&theme=tokyonight&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Rust+%7C+C%2B%2B;Codeforces+Specialist;Building+systems+that+don't+fall+over)](https://git.io/typing-svg)
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash5307&theme=tokyo-night&hide_border=true) -->
+
+![Profile views](https://komarev.com/ghpvc/?username=Akash5307&style=flat-square&color=blue)
 *******
 
 ### 📫 Reach me
