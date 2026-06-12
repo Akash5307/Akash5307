@@ -7,8 +7,7 @@
 </div>
 
 ### Hi, I'm Akash 👋
-
-I'm a backend engineer currently building loan-origination systems at **WeRize** in Bangalore. Before this, I worked on the **Catapult HLS compiler at Siemens EDA** — the toolchain semiconductor companies use to convert C++/SystemC into RTL.
+I'm a backend engineer. I think in pipelines, async queues, and failure modes.  When I'm not shipping, I'm competing on Codeforces or digging into something low-level just to understand how it works.
 
 I care about systems that don't fall over: memory profiling, async pipelines, and APIs that hold up under real traffic.
 
